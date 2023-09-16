@@ -1,0 +1,75 @@
+.background{
+	width: 100%;
+	height: auto;
+	position:relative;
+	opacity: 50%;
+}
+.background1{
+	width: 98.8%;
+	height: auto;
+	position:absolute;
+	opacity: 50%;
+}
+.square{
+	position: sticky;
+	top: 0;
+	width: 100%;
+	opacity: 90%;
+	height: 12%;
+	background-color: pink;
+	z-index:100;
+}
+.title{
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	font-family: Mv boli;
+}
+.container{
+	padding: px;
+	width: 100%;
+
+}
+.container .image2{
+	position: relative;
+	width: 25%;
+	z-index: 2;
+	border: dotted;
+}
+.square2{
+	position: absolute;
+	left:;
+	height: 8vw;
+	opacity: 80%;
+	width: 97.5vw;
+	background-color: pink;
+	z-index: 100;
+}
+.textdown{
+	font-family: Mv boli;
+	font-size: 1.4vw;
+	position:relative;
+	left: 20px;
+}	
+.container2{
+	padding:px;
+	width:100%;
+}
+.textbox1{
+	position:absolute;
+	background-color: pink;
+	display: block;
+	width: 64.5vw;
+	height: 16vw;
+	opacity: 80%;
+	z-index: 2;
+	left: 30%;
+	
+}
+.text123{
+	font-family:Mv boli;
+	opacity: 100%;
+	font-size: 1.4vw;
+	color:black;
+	text-align: center;
+}
